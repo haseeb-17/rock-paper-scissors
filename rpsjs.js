@@ -1,4 +1,4 @@
-var rand;
+var rand1;
 var wins=0;
 var draws=0;
 var losses=0;
